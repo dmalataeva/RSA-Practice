@@ -1,4 +1,5 @@
-# RSA_Practice
+# RSA-Practice
+
 Simple script used to generate very large RSA keys and encrypt/decrypt messages in ASCII.
 
 This was made as a bonus assignment for Martin Pei's Discrete Mathematics course at the University of Waterloo.
